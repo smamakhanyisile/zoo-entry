@@ -3,7 +3,7 @@ body {
     margin: 0;
     padding: 0;   
     display: flex;
-    background-image:url('../Desktop/desktop-wallpaper-zoo-animals-in-the-wild-nature-1372908-vector-art-at-vecteezy-zoo-cartoon.jpg'); 
+    background-image:url('desktop-wallpaper-zoo-animals-in-the-wild-nature-1372908-vector-art-at-vecteezy-zoo-cartoon.jpg'); 
     align-items: center;
     justify-content: center;
     height:100vh ;
